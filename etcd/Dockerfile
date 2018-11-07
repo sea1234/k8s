@@ -1,2 +1,1 @@
 From gcr.io/google_containers/etcd:1.0.9
-
